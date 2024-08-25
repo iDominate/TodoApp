@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TodoApp.Infrastructure",
+    "\\TodoApp.Infrastructure\\Authentication",
+    "\\TodoApp.Infrastructure\\TodoRepository",
+    "\\TodoApp.Test",
+    "\\TodoApp.Test\\Infrastructure_Tests"
+  ],
+  "SelectedNode": "\\TodoApp.Test\\TodoApp.Test.csproj",
+  "PreviewInSolutionExplorer": false
+}

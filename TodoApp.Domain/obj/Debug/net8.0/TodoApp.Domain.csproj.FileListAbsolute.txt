@@ -1,0 +1,12 @@
+E:\DOTNETProjects\TodoApp\TodoApp.Domain\bin\Debug\net8.0\TodoApp.Domain.deps.json
+E:\DOTNETProjects\TodoApp\TodoApp.Domain\bin\Debug\net8.0\TodoApp.Domain.dll
+E:\DOTNETProjects\TodoApp\TodoApp.Domain\bin\Debug\net8.0\TodoApp.Domain.pdb
+E:\DOTNETProjects\TodoApp\TodoApp.Domain\obj\Debug\net8.0\TodoApp.Domain.csproj.AssemblyReference.cache
+E:\DOTNETProjects\TodoApp\TodoApp.Domain\obj\Debug\net8.0\TodoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNETProjects\TodoApp\TodoApp.Domain\obj\Debug\net8.0\TodoApp.Domain.AssemblyInfoInputs.cache
+E:\DOTNETProjects\TodoApp\TodoApp.Domain\obj\Debug\net8.0\TodoApp.Domain.AssemblyInfo.cs
+E:\DOTNETProjects\TodoApp\TodoApp.Domain\obj\Debug\net8.0\TodoApp.Domain.csproj.CoreCompileInputs.cache
+E:\DOTNETProjects\TodoApp\TodoApp.Domain\obj\Debug\net8.0\TodoApp.Domain.dll
+E:\DOTNETProjects\TodoApp\TodoApp.Domain\obj\Debug\net8.0\refint\TodoApp.Domain.dll
+E:\DOTNETProjects\TodoApp\TodoApp.Domain\obj\Debug\net8.0\TodoApp.Domain.pdb
+E:\DOTNETProjects\TodoApp\TodoApp.Domain\obj\Debug\net8.0\ref\TodoApp.Domain.dll

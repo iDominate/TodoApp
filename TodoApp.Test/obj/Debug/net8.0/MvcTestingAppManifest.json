@@ -1,0 +1,6 @@
+{
+  "TodoApp.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "e:\\DOTNETProjects\\TodoApp\\TodoApp.Api",
+  "TodoApp.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "e:\\DOTNETProjects\\TodoApp\\TodoApp.Application",
+  "TodoApp.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "e:\\DOTNETProjects\\TodoApp\\TodoApp.Domain",
+  "TodoApp.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "e:\\DOTNETProjects\\TodoApp\\TodoApp.Infrastructure"
+}
